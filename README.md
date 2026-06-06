@@ -6,6 +6,7 @@ Personal portfolio website created for CSCI 39548: Practical Web Development.
 
 This project is a simple personal portfolio website built using HTML and CSS. The website includes:
 
+
 - About Me section
 - Professional Experience section
 - Technical Skills section
