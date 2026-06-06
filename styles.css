@@ -4,7 +4,7 @@ body {
 }
 
 header {
-    background: #333;
+    background: #0066cc;
     color: white;
     text-align: center;
     padding: 20px;
@@ -39,7 +39,7 @@ button {
 }
 
 footer {
-    background: #333;
+    background: #0066cc;
     color: white;
     text-align: center;
     padding: 15px;
