@@ -21,10 +21,28 @@ section {
     padding: 20px;
 }
 
+img {
+    width: 250px;
+    border-radius: 12px;
+    margin-bottom: 15px;
+}
+
 form {
     display: flex;
     flex-direction: column;
-    width: 250px;
+    gap: 10px;
+    width: 300px;
+}
+
+button {
+    width: 100px;
+}
+
+footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 15px;
 }
 
 @media (max-width: 600px) {
